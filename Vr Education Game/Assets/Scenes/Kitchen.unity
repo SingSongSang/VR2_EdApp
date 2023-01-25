@@ -1410,6 +1410,7 @@ Transform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!43 &1731243205
 Mesh:
   m_ObjectHideFlags: 0
@@ -1575,6 +1576,8 @@ Mesh:
     size: 0
     path: 
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!4 &1553838270 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a0b9b6058f33420498e8d72b0e3cc7ac, type: 3}
@@ -1585,6 +1588,9 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 5f11c638bf4cf064aa43d74bc2dcdf02, type: 3}
   m_PrefabInstance: {fileID: 1762633257}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!1001 &1762633257
 PrefabInstance:
@@ -1899,6 +1905,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53fe24d0aa4d2f747b9a4a7c2401803d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   playerCameraTransform: {fileID: 1309512780}
   pickUpLayerMask:
@@ -2218,6 +2225,8 @@ Transform:
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!1001 &8429684610263785547
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2275,4 +2284,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5389fcfd87cb3354a9a3e66331c1f710, type: 3}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
