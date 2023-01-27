@@ -1750,6 +1750,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   playerCameraTransform: {fileID: 1309512780}
   pickUpLayerMask:
     serializedVersion: 2
@@ -1816,6 +1817,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 759614500e703714d975949edc73f363, type: 3}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======

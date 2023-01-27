@@ -16,17 +16,23 @@ C:/Users/snguyen31/GitHub/VR2_EdApp/Vr Education Game
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 60879
 Successfully changed project path to: C:/Users/snguyen31/GitHub/VR2_EdApp/Vr Education Game
 C:/Users/snguyen31/GitHub/VR2_EdApp/Vr Education Game
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 35.06 ms, found 2 plugins.
 =======
+=======
+>>>>>>> Stashed changes
 52485
 Successfully changed project path to: C:/Users/snguyen31/GitHub/VR2_EdApp/Vr Education Game
 C:/Users/snguyen31/GitHub/VR2_EdApp/Vr Education Game
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 36.60 ms, found 2 plugins.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.16f1 (049d6eca3c44)
@@ -44,7 +50,11 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Manage
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56352
+>>>>>>> Stashed changes
 =======
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56352
 >>>>>>> Stashed changes
@@ -52,6 +62,7 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Registered in 0.002756 seconds.
 Native extension for WindowsStandalone target not found
@@ -64,6 +75,8 @@ Domain Reload Profiling:
 	ReloadAssembly (1244ms)
 		BeginReloadAssembly (56ms)
 =======
+=======
+>>>>>>> Stashed changes
 Registered in 0.004853 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -74,12 +87,16 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (1367ms)
 		BeginReloadAssembly (61ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 		EndReloadAssembly (436ms)
 			LoadAssemblies (54ms)
@@ -96,6 +113,8 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (79ms)
 				ProcessInitializeOnLoadMethodAttributes (32ms)
 =======
+=======
+>>>>>>> Stashed changes
 		EndReloadAssembly (479ms)
 			LoadAssemblies (59ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -110,6 +129,9 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (21ms)
 				ProcessInitializeOnLoadAttributes (97ms)
 				ProcessInitializeOnLoadMethodAttributes (38ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -117,6 +139,7 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Registered in 0.006154 seconds.
 Begin MonoManager ReloadAssembly
@@ -194,6 +217,8 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadMethodAttributes (4ms)
 				AfterProcessingInitializeOnLoad (8ms)
 =======
+=======
+>>>>>>> Stashed changes
 Registered in 0.007378 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -225,6 +250,9 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (311ms)
 				ProcessInitializeOnLoadMethodAttributes (3ms)
 				AfterProcessingInitializeOnLoad (7ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -234,7 +262,11 @@ Platform modules already initialized, skipping
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+=======
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+>>>>>>> Stashed changes
 =======
 Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
 >>>>>>> Stashed changes
@@ -245,7 +277,11 @@ System memory in use after: 83.8 MB.
 
 Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2212.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Total: 3.301900 ms (FindLiveObjects: 0.161100 ms CreateObjectMapping: 0.054900 ms MarkObjects: 2.986700 ms  DeleteObjects: 0.098400 ms)
+=======
+Total: 4.158200 ms (FindLiveObjects: 0.189100 ms CreateObjectMapping: 0.068000 ms MarkObjects: 3.798800 ms  DeleteObjects: 0.101000 ms)
+>>>>>>> Stashed changes
 =======
 Total: 4.158200 ms (FindLiveObjects: 0.189100 ms CreateObjectMapping: 0.068000 ms MarkObjects: 3.798800 ms  DeleteObjects: 0.101000 ms)
 >>>>>>> Stashed changes
@@ -262,6 +298,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   path: Assets/2D Assets/Tile.png
   artifactKey: Guid(1cc98a5c0f32b1941af8f7d9391c6cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -405,6 +442,8 @@ Start importing Assets/Scenes/Title Screen.unity using Guid(6f9753c1f6817cb45860
   Import took 0.019356 seconds .
 
 =======
+=======
+>>>>>>> Stashed changes
   path: Assets/Scripts/PlayerPickUpDrop.cs
   artifactKey: Guid(53fe24d0aa4d2f747b9a4a7c2401803d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/PlayerPickUpDrop.cs using Guid(53fe24d0aa4d2f747b9a4a7c2401803d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c4b3bf1373b222d5834838617198c6') in 0.029233 seconds 
@@ -727,5 +766,8 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
